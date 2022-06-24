@@ -1,0 +1,13 @@
+{
+    "Method": "GET",
+    "User": 100,
+    "Total Request": 13.74,
+    "Req/sec": 100.491386,
+    "Passed": "12",
+    "Failed": "300",
+    "Failure (%)": "3.25",
+    "Req Duration avg. (s)": "25.0",
+    "Running Time(s)": "20"
+  }
+
+ 
